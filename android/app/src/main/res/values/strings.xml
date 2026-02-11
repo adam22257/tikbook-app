@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tikbook</string>
+    <string name="title_activity_main">tikbook</string>
+    <string name="package_name">com.tikbook.app</string>
+    <string name="custom_url_scheme">com.tikbook.app</string>
+</resources>

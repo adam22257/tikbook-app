@@ -1,0 +1,18 @@
+{
+  "name": "TikBook (تيك بوك)",
+  "description": "منصة تواصل اجتماعي متكاملة للفيديوهات القصيرة وغرف البث المباشر ونظام هدايا متطور.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "android": {
+    "permissions": [
+      "android.permission.CAMERA",
+      "android.permission.RECORD_AUDIO",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.INTERNET"
+    ]
+  }
+}
